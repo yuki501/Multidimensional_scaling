@@ -1,1 +1,2 @@
 # Multidimensional_scaling
+In this exercise, we will look at a dataset of 42 human geographic populations collected by Cavalli-Sforza et al. in The History and Geography of Human Genes, 1994. There are many ways to measure genetic similarity between populations. This work uses the modified Nei’s distance, which compares allele frequencies at specific locations within the human genome. Other ways to measure genetic similarity include the edit distance between DNA sequences or Euclidean distance of gene expressions.
